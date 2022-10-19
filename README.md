@@ -1,70 +1,131 @@
-# Getting Started with Create React App
+<div id="top"></div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#technical-requirements">Technical Requirements</a></li>
+        <li><a href="#technologies-used">Technologies-Used</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#user-stories">User Stories</a>
+      <ul>
+        <li><a href="#mvp">MVP</a></li>
+        <li><a href="#stretch-goals">Stretch Goals</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#developement">Planning, Unsolved Problems, and Future Enhancements</a>
+      <ul>
+        <li><a href="#tools-used">Planning & Wireframes</a></li>
+        <li><a href="#initial-wireframes">Initial Wireframes</a></li>
+        <li><a href="#unsolved-problems">Unsolved Problems</a></li>
+        <li><a href="#future-enhancements">Future Enhancements</a></li>
+      </ul>
+    </li>
+    <li>
+     <a href="#getting-started">Getting Started</a>
+    </li>
+  </ol>
+</details>
 
-## Available Scripts
+<div align="center">
+<h1 align="center">Capstone Portfolio Project</h1>
 
-In the project directory, you can run:
+  <p align="center">
+A portfolio website with a tech stack of choice to display work. 
+    <br />
+    <br />
+    <a href="https://github.com/hummingbirdcreative/portfolio_final.git"><strong>Explore the Docs »</strong></a><br>
+    <br />
+    <br />
+    <a href="#">View Live Site</a>
+    ·
+    <a href="https://github.com/hummingbirdcreative/portfolio_final/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/hummingbirdcreative/portfolio_final/issues">Request Feature</a>
+  </p>
+</div>
 
-### `npm start`
+## About The Project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+A portfolio website with a tech stack of choice to display work using React and  TailwindCSS.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Here are a few of the views of the live site.
+![HomePage](https://i.imgur.com/mOppDlS.png)
+![ProjectPage](https://i.imgur.com/LD3ejld.png)
 
-### `npm test`
+## Technical Requirements
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Is deployed to Vercel, Netlify or Github pages or hosted somewhere else
+- Contains a list of your current projects (with links to the live sites)
+- Contains your resume
+- Contains your bio
+- Contains a link to your github profile
+- Contains a link to your LinkedIn account
+- Must be functional for all screen sizes (responsive)
 
-### `npm run build`
+## Technologies used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Frontend
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [React](https://reactjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Deployment
 
-### `npm run eject`
+- [Netlify](https://docs.netlify.com/?_gl=1%2a3nt3we%2a_gcl_aw%2aR0NMLjE2NjEzOTM2NTIuQ2p3S0NBandtSmVZQmhBd0Vpd0FYbGcwQVNXeHdhaDY3cXZTVFBxOHBTcTdEeUdmWWhDUmRjdmxnX0V4MkFseGcwd3VCM3ltcHNUc3V4b0NqRmNRQXZEX0J3RQ..&_ga=2.106224459.93517023.1661393652-710746354.1661393652&_gac=1.112985462.1661393652.CjwKCAjwmJeYBhAwEiwAXlg0ASWxwah67qvSTPq8pSq7DyGfYhCRdcvlg_Ex2Alxg0wuB3ympsTsuxoCjFcQAvD_BwE)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## User stories
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### MVP
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- As a user I should be able to view an home, about, and project page.
+- As a user, I want to be able to access project links
+- As a user, I want to be able to access links to github, linkedin, and resume
+- As a user, I want a well-designed, clean interface that is easy to understand and navigate
 
-## Learn More
+### Stretch Goals
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Blog
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Development
 
-### Code Splitting
+### Planning, Unsolved Problems, and Future Enhancements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### Planning & Wireframes
 
-### Analyzing the Bundle Size
+- [Trello](https://trello.com/b/PmJZjbZW/portfolio)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Unsolved Problems
 
-### Advanced Configuration
+- Hamburger Menu does not drop down
+- Links on about me page do not work
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-### Deployment
+## Future Enhancements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Add a blog
 
-### `npm run build` fails to minify
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Getting Started
+
+- Fork/Clone this repository
+- npm i to install all dependencies
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+_If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!_
+
+<p align="right">(<a href="#top">back to top</a>)</p>
