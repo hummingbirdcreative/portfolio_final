@@ -42,7 +42,7 @@ A portfolio website with a tech stack of choice to display work.
     <a href="https://github.com/hummingbirdcreative/portfolio_final.git"><strong>Explore the Docs »</strong></a><br>
     <br />
     <br />
-    <a href="#">View Live Site</a>
+    <a href="https://christinecodesportfolio.netlify.app/">View Live Site</a>
     ·
     <a href="https://github.com/hummingbirdcreative/portfolio_final/issues">Report Bug</a>
     ·
