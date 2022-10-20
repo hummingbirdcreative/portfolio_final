@@ -25,7 +25,7 @@ function About() {
           </div>
         </div>
         <div class="w-full md:w-3/5 py-6 text-center">
-          <img class="w-full md:w-4/5 z-50" src="https://i.imgur.com/phtjryZ.png" alt="hero" />
+          <img class="w-full md:w-4/5 z-50 ml-40 mb-20" src="https://i.imgur.com/phtjryZ.png" alt="hero" />
         </div>
       </div>
     </div>

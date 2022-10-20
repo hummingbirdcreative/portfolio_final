@@ -109,7 +109,6 @@ Here are a few of the views of the live site.
 ## Unsolved Problems
 
 - Hamburger Menu does not drop down
-- Links on about me page do not work
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
