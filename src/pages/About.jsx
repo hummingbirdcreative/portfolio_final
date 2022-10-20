@@ -14,18 +14,18 @@ function About() {
           </p>
           <div class="flex flex-wrap flex-col md:flex-row items-center space-x-2">
           <button class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
-            <a href="/https://docs.google.com/document/d/1Uc3kXrvCs_Bgv9SRnU3055eph4wS3Mso4BMLicThu6U/edit?usp=sharing">Resume</a>
+            <a href="https://docs.google.com/document/d/1Uc3kXrvCs_Bgv9SRnU3055eph4wS3Mso4BMLicThu6U/edit?usp=sharing">Resume</a>
           </button>
           <button class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
-            <a href="/https://github.com/hummingbirdcreative">Github</a>
+            <a href="https://github.com/hummingbirdcreative">Github</a>
           </button>
           <button class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
-            <a href="/https://www.linkedin.com/in/christinegrayb/">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/christinegrayb">LinkedIn</a>
           </button>
           </div>
         </div>
         <div class="w-full md:w-3/5 py-6 text-center">
-          <img class="w-full md:w-4/5 z-50" src="https://i.imgur.com/d5mU7Qa.png" alt="hero" />
+          <img class="w-full md:w-4/5 z-50" src="https://i.imgur.com/phtjryZ.png" alt="hero" />
         </div>
       </div>
     </div>
