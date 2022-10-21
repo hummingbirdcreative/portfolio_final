@@ -6,7 +6,7 @@ import About from "./pages/About";
 import Projects from "./pages/Projects";
 import Blog from "./pages/Blog";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Routes,
   Navigate
