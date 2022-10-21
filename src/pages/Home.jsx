@@ -55,8 +55,7 @@ function Home() {
               Next.js Blog
             </h3>
             <p class="text-gray-600 mb-8">
-              I'm currently working on trying to teach myself how to create a blog from scratch using Node.js and GraphCMS. Check out my <a className="font-bold" href="#">progress.</a>
-              <a href="#"/>
+              I'm currently working on trying to teach myself how to create a blog from scratch using Node.js and GraphCMS.
             </p>
           </div>
           <div class="w-full sm:w-1/2 p-6">

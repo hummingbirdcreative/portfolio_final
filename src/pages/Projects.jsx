@@ -12,9 +12,9 @@ function Projects() {
         </div>
         <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
           <div class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow">
-            <a href="#" class="flex flex-wrap no-underline hover:no-underline">
+            <a href="https://wardobe-catalog.herokuapp.com/users/login" class="flex flex-wrap no-underline hover:no-underline">
               <p class="w-full text-gray-600 text-xs md:text-sm px-6">
-              <a href="https://wardobe-catalog.herokuapp.com/users/login"><img src="https://i.imgur.com/bYQlMgb.png" title="source: imgur.com" /></a>
+              <a href="https://wardobe-catalog.herokuapp.com/users/login"><img src="https://i.imgur.com/bYQlMgb.png" title="source: imgur.com" alt="project_photo"/></a>
               </p>
               <div class="w-full font-bold text-xl text-gray-800 px-6">
                 Wardrobe Catalog
@@ -34,9 +34,9 @@ function Projects() {
         </div>
         <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
           <div class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow">
-            <a href="#" class="flex flex-wrap no-underline hover:no-underline">
+            <a href="https://record-project.netlify.app/" class="flex flex-wrap no-underline hover:no-underline">
               <p class="w-full text-gray-600 text-xs md:text-sm px-6">
-              <a href="https://record-project.netlify.app/"><img src="https://i.imgur.com/5J583XW.png" title="source: imgur.com" /></a>
+              <a href="https://record-project.netlify.app/"><img src="https://i.imgur.com/5J583XW.png" title="source: imgur.com" alt="project_photo"/></a>
               </p>
               <div class="w-full font-bold text-xl text-gray-800 px-6">
                 Record Crate
@@ -55,9 +55,9 @@ function Projects() {
         </div>
         <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
           <div class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow">
-            <a href="#" class="flex flex-wrap no-underline hover:no-underline">
+            <a href="https://vita-life-story.herokuapp.com/" class="flex flex-wrap no-underline hover:no-underline">
               <p class="w-full text-gray-600 text-xs md:text-sm px-6">
-              <a href="https://vita-life-story.herokuapp.com/"><img src="https://i.imgur.com/g97RV6k.png" title="source: imgur.com" /></a>
+              <a href="https://vita-life-story.herokuapp.com/"><img src="https://i.imgur.com/g97RV6k.png" title="source: imgur.com" alt="project_photo" /></a>
               </p>
               <div class="w-full font-bold text-xl text-gray-800 px-6">
                 Vita Life Story
